@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 12 Sep 2022 09:41:05 GMT
+// Generated on Mon, 12 Sep 2022 11:46:38 GMT
 
 
 import UIKit
@@ -257,7 +257,7 @@ public class StyleDictionary {
     public static let typographyTypographyBodySTextCase = none
     public static let typographyTypographyBodySTextDecoration = none
     public static let typographyTypographyHeading1FontFamily = Inter
-    public static let typographyTypographyHeading1FontSize = 32
+    public static let typographyTypographyHeading1FontSize = 34
     public static let typographyTypographyHeading1FontStretch = normal
     public static let typographyTypographyHeading1FontStyle = normal
     public static let typographyTypographyHeading1FontWeight = 600
