@@ -4,16 +4,30 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 15 Jul 2022 19:49:49 GMT
+// Generated on Mon, 12 Sep 2022 09:22:02 GMT
 
 
 import UIKit
 
 public class StyleDictionary {
+    public static let 025 = 0.25
+    public static let 10 = [object Object]
+    public static let 32 = 32.72
+    public static let 40 = 40
+    public static let 5 = [object Object]
+    public static let 60 = 60
+    public static let 80 = 80
+    public static let bodyExtraBoldCondensedItalic = [object Object]
+    public static let bodyH3 = [object Object]
+    public static let bodyH4StrikeThrough = [object Object]
+    public static let bodyItalic = [object Object]
+    public static let bodyMediumExtendedItalic = [object Object]
+    public static let bodySuper = [object Object]
     public static let bordersDashedOutside = [object Object]
     public static let bordersSingle = [object Object]
     public static let bordersSingleStyle = [object Object]
     public static let bordersUnsupportedMultipleBorders = [object Object]
+    public static let bouncy = [object Object]
     public static let breakpointsLg = 1280
     public static let breakpointsMd = 1024
     public static let breakpointsSm = 768
@@ -25,6 +39,18 @@ public class StyleDictionary {
     public static let colorColorsSingleBlue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
     public static let colorColorsSpecialCharacters = UIColor(red: 0.251, green: 0.875, blue: 0.314, alpha: 1)
     public static let colorColorsSpecialCharactersNderung = UIColor(red: 0.204, green: 0.337, blue: 0.686, alpha: 1)
+    public static let colorsEmpty = #00000000
+    public static let colorsMultipleFills0 = #40ffbaff
+    public static let colorsMultipleFills1 = #0000001a
+    public static let colorsRefBlue = #044affff
+    public static let colorsSemiRed = #ff5f0480
+    public static let colorsSingleBlue = #044affff
+    public static let colorsSpecialCharacters = #40df50ff
+    public static let colorsSpecialCharactersNderung = #3456afff
+    public static let customSpring = [object Object]
+    public static let dashedOutside = [object Object]
+    public static let dissolve = [object Object]
+    public static let dropShadowSingle = [object Object]
     public static let effectDropShadowSingle = [object Object]
     public static let effectInnerShadowMultiple0 = [object Object]
     public static let effectInnerShadowMultiple1 = [object Object]
@@ -35,11 +61,18 @@ public class StyleDictionary {
     public static let fontBodyItalic = "[object Object]"
     public static let fontBodyMediumExtendedItalic = "[object Object]"
     public static let fontBodySuper = "[object Object]"
+    public static let frame = 32
+    public static let full = 1
     public static let gradientGradientMultiplegrad0 = [object Object]
     public static let gradientGradientMultiplegrad1 = [object Object]
     public static let gradientGradientMultiplegrad2 = [object Object]
     public static let gradientGradientMultiplegrad3 = [object Object]
     public static let gradientGradientSingleWithMultipleColorStops = [object Object]
+    public static let gradientMultiplegrad0 = [object Object]
+    public static let gradientMultiplegrad1 = [object Object]
+    public static let gradientMultiplegrad2 = [object Object]
+    public static let gradientMultiplegrad3 = [object Object]
+    public static let gradientSingleWithMultipleColorStops = [object Object]
     public static let gridMultiple0 = [object Object]
     public static let gridMultiple1 = [object Object]
     public static let gridMultiple2 = [object Object]
@@ -49,18 +82,44 @@ public class StyleDictionary {
     public static let gridMultiple6 = [object Object]
     public static let gridMultiple7 = [object Object]
     public static let gridSingle = [object Object]
+    public static let half = 0.5
+    public static let inVariant120 = 120
+    public static let inVariant60 = 60
+    public static let inVariant90 = 90
+    public static let innerShadowMultiple0 = [object Object]
+    public static let innerShadowMultiple1 = [object Object]
+    public static let innerShadowMultiple2 = [object Object]
+    public static let lg = 1280
+    public static let md = 1024
+    public static let mixed = [object Object]
     public static let motionBouncy = [object Object]
     public static let motionCustomSpring = [object Object]
     public static let motionDissolve = [object Object]
     public static let motionMoveIn = [object Object]
     public static let motionPush = [object Object]
     public static let motionSmart = [object Object]
+    public static let moveIn = [object Object]
+    public static let multiple0 = [object Object]
+    public static let multiple1 = [object Object]
+    public static let multiple2 = [object Object]
+    public static let multiple3 = [object Object]
+    public static let multiple4 = [object Object]
+    public static let multiple5 = [object Object]
+    public static let multiple6 = [object Object]
+    public static let multiple7 = [object Object]
+    public static let notExported = #fe5050ff
     public static let opacities025 = 0.25
     public static let opacityFull = 1
     public static let opacityHalf = 0.5
+    public static let plainToken = 200
+    public static let push = [object Object]
     public static let radiiMixed = [object Object]
     public static let radiiSmoothing = [object Object]
     public static let radius5 = [object Object]
+    public static let rect = 32
+    public static let shapeInComponent = 32
+    public static let single = [object Object]
+    public static let singleStyle = [object Object]
     public static let sizes32 = 32.72
     public static let sizes40 = 40
     public static let sizes60 = 60
@@ -74,9 +133,15 @@ public class StyleDictionary {
     public static let sizesShapeInComponent = 32
     public static let sizesTokenInFrame = 200
     public static let sizesTokenInGroup = 200
+    public static let sm = 768
+    public static let smart = [object Object]
+    public static let smoothing = [object Object]
     public static let spacing10 = [object Object]
     public static let spacingMixed = [object Object]
     public static let spacingTop = [object Object]
+    public static let tokenInFrame = 200
+    public static let tokenInGroup = 200
+    public static let top = [object Object]
     public static let typographyBodyExtraBoldCondensedItalicFontFamily = Akzidenz-Grotesk Pro
     public static let typographyBodyExtraBoldCondensedItalicFontSize = 12
     public static let typographyBodyExtraBoldCondensedItalicFontStretch = condensed
@@ -143,4 +208,5 @@ public class StyleDictionary {
     public static let typographyBodySuperParagraphSpacing = 0
     public static let typographyBodySuperTextCase = none
     public static let typographyBodySuperTextDecoration = none
+    public static let unsupportedMultipleBorders = [object Object]
 }
